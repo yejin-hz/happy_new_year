@@ -6,3 +6,4 @@ git has a mutable index called stage.
 =======
 测试http验证
 creating a new branch is quick and simple
+no fast forword
